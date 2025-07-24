@@ -40,4 +40,4 @@ To track and store my daily progress in learning:
 
 ## Author
 
-[Vikram Laghule](https://github.com/yourusername)
+[Vikram Laghule](https://github.com/vikramlaghule)
